@@ -40,4 +40,3 @@ File tidy_dataset.txt contains a tidy dataset of merged training and test sets
 5. Measurements labels were made more clean and descriptive
 6. Activity labels were made factors and more descriptive
 7. Second dataset was created to include only means by activity and participant. This was written to final file tidy_dataset.txt 
-6. 
