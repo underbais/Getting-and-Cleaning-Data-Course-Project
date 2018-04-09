@@ -36,5 +36,5 @@ File tidy_dataset.txt contains a tidy dataset of merged training and test sets
 1. Measurements labels from features.txt file had been assigned to values in x_test.txt and x_train.txt files
 2. Activity IDs from y_test.txt and y_train.txt files were added to x_test and x_train datasets
 3. Subject IDs from subject_test.txt and subject_train.txt files were added to x_test and x_train datasets
-4. Renaming labels
+4. Measurements labels were made more descriptive
 5. Train and test datasets were merged to create final tidy dataset which was written to tidy_dataset.txt file
