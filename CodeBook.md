@@ -23,9 +23,13 @@
 
 ### Output
 
+File tidy_dataset.txt contains a tidy dataset of merged training and test sets
+
 ## Variables
 
-### Identifiers
-### Labels
+1. subjects (1-30, subject_test.txt and subject_train.txt files)
+2. activities (1-6, see section Data above)
+3. measurements (features.txt file)
 
 ## Transformations
+
