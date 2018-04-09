@@ -16,6 +16,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 3. Extract activity and participant data
 4. Load test and training datasets with mean and standard deviation only
 5. Merge training and test datasets
-6. Write final dataset to tidy_data_set.txt file
+6. Subset to second dataset with means only by activity and participant
+7. Write final dataset to tidy_data_set.txt file
 
 
