@@ -19,4 +19,4 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 6. Subset to second dataset with means only by activity and participant
 7. Write final dataset to tidy_data_set.txt file
 
-
+*Please see CodeBook.md and comments in run_analysis.R script for more detailed description of data processing steps*
